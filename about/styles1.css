@@ -1,0 +1,182 @@
+section {
+    background-color: #F2F1E8;
+    padding: 50px;
+}
+
+.header {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Merriweather', Arial, serif;
+    font-weight: normal;
+    color: #131511;
+    font-size: 55px
+}
+
+.p1 {
+    font-family: 'Merriweather', Arial, serif;
+    font-weight: normal;
+    font-size: 16px;
+    flex-wrap: wrap;
+    align-content: center;
+    line-height: 30px;
+    padding-bottom: 25px;
+}
+
+p {
+    font-family: 'Merriweather', Arial, serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.pic1 {
+    content: url('/Users/hilltopper11/week-one-project/images/birdhouse.jpg');
+    height: 7rem;
+    font-family: 'Merriweather', Arial, serif;
+    float: left;
+    padding-right: 25px;
+}
+
+.picback {
+    background: url('/Users/hilltopper11/week-one-project/images/background-3.jpg');
+    background-size: cover;
+    height: 20rem;
+    font-family: 'Merriweather', Arial, serif;
+    font-size: 20px
+}
+
+.text2 {
+    font-family: 'Merriweather', Arial, serif;
+    font-weight: normal;
+    font-size: 14px;
+    padding-left: 70px;
+}
+
+table {
+    font-family: 'Merriweather', Arial, serif;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+h2 {
+    font-family: 'Merriweather', Arial, serif;
+    font-weight: normal;
+    font-size: 24px;
+}
+
+.backtext {
+    font-family: 'Merriweather', Arial, serif;
+    font-weight: normal;
+    font-size: 55px;
+    color: #F2F1E8;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+body {}
+
+.top {
+    padding-left: 55px;
+    padding-right: 87px;
+}
+
+.line {
+    width: 1px;
+    background-color: #5e5c57;
+    height: 100px;
+    margin-top: -76px;
+}
+
+blockquote {
+    font-family: 'Merriweather', Arial, serif;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 30px;
+}
+
+h3 {
+    font-family: 'Merriweather', Arial, serif;
+    font-size: 26px;
+    font-weight: normal;
+}
+
+.pic2 {
+    content: url('/Users/hilltopper11/week-one-project/images/background-1.jpg');
+    height: 7rem;
+    display: flex;
+    float: right;
+    margin-right: 174px;
+    /* margin-left: 67px; */
+    padding-left: 34px
+}
+
+p3 {
+    font-family: 'Merriweather', Arial, serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 30px;
+    display: flex;
+}
+
+.studio {}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 68px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 36px;
+}
+
+h2 {
+    text-align: left;
+    padding-left: 70px;
+}
+
+table tr th {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+
+.smalltext {
+    padding-top: -6px;
+    text-align: right;
+    /* padding-left: 100px; */
+    margin-left: 526px;
+    margin-right: 175px;
+    margin-bottom: 8px;
+    margin-top: -65px;
+    font-size: 10px;
+    line-height: 20px;
+}
+
+.pot {
+    content: url('/Users/hilltopper11/week-one-project/images/bent-creek-logo.png');
+    height: 45px;
+    position: absolute;
+}
+
+nav {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.main-header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    margin: 0 20px;
+}

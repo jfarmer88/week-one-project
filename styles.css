@@ -1,0 +1,145 @@
+.main-header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main {
+    background-color: #F2F1E8;
+    text-align: center;
+    padding-bottom: 1px;
+}
+
+.footer {
+    background-color: black;
+    padding-bottom: 25px;
+    color: #f2f1e8;
+    font-family: 'Merriweather', Arial, serif;
+    font-size: 13px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+#pic1 {
+    background: url("/Users/hilltopper11/week-one-project/images/product-1.jpg") no-repeat center center;
+    background-size: cover;
+    /*height: 17rem;*/
+    width: 56%;
+    margin-right: 15px;
+    color: #f2f1e8;
+}
+
+#pic2 {
+    background: url("/Users/hilltopper11/week-one-project/images/product-2.jpg") no-repeat center center;
+    background-size: cover;
+    height: 17rem;
+    width: 15%;
+    margin-right: 15px;
+    color: #f2f1e8;
+}
+
+#pic3 {
+    background: url("/Users/hilltopper11/week-one-project/images/product-3.jpg") no-repeat center center;
+    background-size: cover;
+    height: 17rem;
+    width: 15%;
+    color: #f2f1e8;
+}
+
+#pic4 {
+    background: url("/Users/hilltopper11/week-one-project/images/product-4.jpg") no-repeat center center;
+    background-size: cover;
+    height: 12rem;
+    width: 21%;
+    margin-right: 15px;
+    color: #f2f1e8;
+}
+
+#pic5 {
+    background: url("/Users/hilltopper11/week-one-project/images/product-5.jpg") no-repeat center center;
+    background-size: cover;
+    height: 12rem;
+    width: 21%;
+    margin-right: 15px;
+    color: #f2f1e8;
+}
+
+#pic6 {
+    background: url("/Users/hilltopper11/week-one-project/images/product-6.jpg") no-repeat center center;
+    background-size: cover;
+    height: 12rem;
+    width: 27.5%;
+    margin-right: 15px;
+    color: #f2f1e8;
+}
+
+#pic7 {
+    background: url("/Users/hilltopper11/week-one-project/images/product-7.jpg") no-repeat center center;
+    background-size: cover;
+    height: 12rem;
+    width: 15%;
+    color: #f2f1e8;
+}
+
+.pic {
+    display: flex;
+}
+
+.pictures-top {
+    display: flex;
+    background-color: #F2F1E8;
+    margin: 15px;
+}
+
+.pictures-bottom {
+    display: flex;
+    margin: 15px;
+    background-color: #F2F1E8;
+    padding-bottom: 15px;
+}
+
+.main-heading {
+    font-family: 'Merriweather', Arial, serif;
+    font-size: 45px;
+    font-style: normal;
+}
+
+.sub-heading {
+    font-family: 'Merriweather', Arial, serif;
+    font-size: 25px;
+    margin-top: -33px;
+}
+
+.main-header {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    align-self: flex-end;
+    padding: 15px;
+    background-color: black;
+    font-family: 'Merriweather', Arial, serif;
+    font-weight: normal;
+    font-size: 13px;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+.pot {
+    content: url('/Users/hilltopper11/week-one-project/images/bent-creek-logo.png');
+    height: 45px;
+    position: absolute;
+}
+
+a {
+    margin: 0 15px;
+}

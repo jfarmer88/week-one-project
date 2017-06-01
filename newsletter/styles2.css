@@ -1,0 +1,78 @@
+body {
+    min-width: 100%;
+}
+
+.pic {
+    background: url('/Users/hilltopper11/week-one-project/images/background-2.jpg');
+    min-height: 32rem;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    position: relative;
+    border: 1px solid #cdcdcd;
+    background-color: white;
+    /*width: 40%;*/
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+p1 {
+    text-align: center;
+    font-family: 'Merriweather', Arial, serif;
+    font-weight: normal;
+    font-size: 24px;
+    padding-bottom: 15px;
+}
+
+p2 {
+    text-align: center;
+    font-family: 'Merriweather', Arial, serif;
+    font-weight: normal;
+    padding-bottom: 35px;
+}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgray;
+}
+
+.main-header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+
+a {
+    margin: 0 26px;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid saddlebrown;
+}
+
+.subbutton {
+    text-align: center;
+}
+
+.subbutton input {
+    background-color: #ae9d7c;
+    color: white;
+    padding: 12px 25px;
+}
+
+nav {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.pot {
+    content: url('/Users/hilltopper11/week-one-project/images/bent-creek-logo.png');
+    height: 45px;
+    position: absolute;
+}
