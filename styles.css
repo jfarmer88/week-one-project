@@ -20,7 +20,7 @@
 }
 
 #pic1 {
-    background: url("/Users/hilltopper11/week-one-project/images/product-1.jpg") no-repeat center center;
+    background: url('./images/product-1.jpg') no-repeat center center;
     background-size: cover;
     /*height: 17rem;*/
     width: 56%;
@@ -29,7 +29,7 @@
 }
 
 #pic2 {
-    background: url("/Users/hilltopper11/week-one-project/images/product-2.jpg") no-repeat center center;
+    background: url('./images/product-2.jpg') no-repeat center center;
     background-size: cover;
     height: 17rem;
     width: 15%;
@@ -38,7 +38,7 @@
 }
 
 #pic3 {
-    background: url("/Users/hilltopper11/week-one-project/images/product-3.jpg") no-repeat center center;
+    background: url('./images/product-3.jpg') no-repeat center center;
     background-size: cover;
     height: 17rem;
     width: 15%;
@@ -46,7 +46,7 @@
 }
 
 #pic4 {
-    background: url("/Users/hilltopper11/week-one-project/images/product-4.jpg") no-repeat center center;
+    background: url('./images/product-4.jpg') no-repeat center center;
     background-size: cover;
     height: 12rem;
     width: 21%;
@@ -55,7 +55,7 @@
 }
 
 #pic5 {
-    background: url("/Users/hilltopper11/week-one-project/images/product-5.jpg") no-repeat center center;
+    background: url('./images/product-5.jpg') no-repeat center center;
     background-size: cover;
     height: 12rem;
     width: 21%;
@@ -64,7 +64,7 @@
 }
 
 #pic6 {
-    background: url("/Users/hilltopper11/week-one-project/images/product-6.jpg") no-repeat center center;
+    background: url('./images/product-6.jpg') no-repeat center center;
     background-size: cover;
     height: 12rem;
     width: 27.5%;
@@ -73,7 +73,7 @@
 }
 
 #pic7 {
-    background: url("/Users/hilltopper11/week-one-project/images/product-7.jpg") no-repeat center center;
+    background: url('./images/product-7.jpg') no-repeat center center;
     background-size: cover;
     height: 12rem;
     width: 15%;

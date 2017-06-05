@@ -32,7 +32,7 @@ p {
 }
 
 .pic1 {
-    content: url('/Users/hilltopper11/week-one-project/images/birdhouse.jpg');
+    content: url('../images/birdhouse.jpg');
     height: 7rem;
     font-family: 'Merriweather', Arial, serif;
     float: left;
@@ -40,7 +40,7 @@ p {
 }
 
 .picback {
-    background: url('/Users/hilltopper11/week-one-project/images/background-3.jpg');
+    background: url('../images/background-3.jpg');
     background-size: cover;
     height: 20rem;
     font-family: 'Merriweather', Arial, serif;
@@ -104,7 +104,7 @@ h3 {
 }
 
 .pic2 {
-    content: url('/Users/hilltopper11/week-one-project/images/background-1.jpg');
+    content: url('../images/background-1.jpg');
     height: 7rem;
     display: flex;
     float: right;
@@ -162,7 +162,7 @@ table tr th {
 }
 
 .pot {
-    content: url('/Users/hilltopper11/week-one-project/images/bent-creek-logo.png');
+    content: url('../images/bent-creek-logo.png');
     height: 45px;
     position: absolute;
 }
